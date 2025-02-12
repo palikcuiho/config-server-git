@@ -1,0 +1,12 @@
+MongoDbSettings:
+  ConnectionString: "mongodb://localhost:27017"
+  DatabaseName: "orderdb"
+ProductService:
+  BaseUrl: "http://localhost:7000"
+CustomerService:
+  BaseUrl: "http://localhost:5000"
+Logging:
+  LogLevel:
+    Default: "Information"
+    Microsoft.AspNetCore: "Warning"
+AllowedHosts: "*"
