@@ -1,0 +1,2 @@
+ConnectionStrings:
+  DefaultConnection: "Server=localhost;Port=3307;Database=borrowing_db;User=root;Password=root;"

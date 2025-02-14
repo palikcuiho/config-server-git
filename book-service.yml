@@ -1,0 +1,2 @@
+ConnectionStrings:
+  DefaultConnection: "Server=localhost;Port=3306;Database=book_db;User=root;Password=root;"
